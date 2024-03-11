@@ -94,6 +94,6 @@ Deployed on [GitHub Pages](https://derektypist.github.io/build-a-cash-register/)
 
 ### Acknowledgements
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-cash-register-project/build-a-cash-register)
+[FreeCodeCamp - Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-cash-register-project/build-a-cash-register)
 
 
